@@ -5,9 +5,9 @@
     An open-source multi-vendor e-commerce platform built with Next.js and Tailwind CSS.
   </p>
   <p>
-    <a href="https://github.com/Addis_ada/gocart/blob/main/LICENSE.md"><img src="https://img.shields.io/github/license/Addis_ada/gocart?style=for-the-badge" alt="License"></a>
-    <a href="https://github.com/Addis_ada/gocart/pulls"><img src="https://img.shields.io/github/badge/PRs-welcome-brightgreen.svg?style=for-the-badge" alt="PRs Welcome"></a>
-    <a href="https://github.com/Addis_ada/gocart/issues"><img src="https://img.shields.io/github/issues/Addis_ada/gocart?style=for-the-badge" alt="GitHub issues"></a>
+    <a href="https://github.com/AddisuAmbaye/gocart/blob/main/LICENSE.md"><img src="https://img.shields.io/github/license/AddisuAmbaye/gocart?style=for-the-badge" alt="License"></a>
+    <a href="https://github.com/AddisuAmbaye/gocart/pulls"><img src="https://img.shields.io/github/badge/PRs-welcome-brightgreen.svg?style=for-the-badge" alt="PRs Welcome"></a>
+    <a href="https://github.com/AddisuAmbaye/gocart/issues"><img src="https://img.shields.io/github/issues/AddisuAmbaye/gocart?style=for-the-badge" alt="GitHub issues"></a>
   </p>
 </div>
 
